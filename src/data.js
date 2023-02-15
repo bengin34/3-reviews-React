@@ -6,7 +6,7 @@ const reviews = [
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
     text:
-      "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+      "The iPhone 13 Pro is an amazing smartphone. The camera quality is simply fantastic and the battery life is significantly better than previous models. The device is sleek and the OLED display is beautiful. The A15 Bionic chip ensures that the phone runs smoothly and effortlessly. The only downside is the high price, but if you can afford it, this is a great phone to have.",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const reviews = [
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg',
     text:
-      'Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.',
+      'The iPhone 13 Pro is an amazing smartphone. The camera quality is simply fantastic and the battery life is significantly better than previous models. The device is sleek and the OLED display is beautiful. The A15 Bionic chip ensures that the phone runs smoothly and effortlessly. The only downside is the high price, but if you can afford it, this is a great phone to have.',
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const reviews = [
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
     text:
-      'Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.',
+      'The Kindle Paperwhite is a great e-reader that is perfect for avid readers who want to take their library with them on the go. The device is lightweight and easy to use, with a backlit display that is easy on the eyes. The battery life is excellent, lasting up to a week on a single charge. The only downside is that it is not ideal for reading anything with lots of images, but for reading novels and text-heavy books, it is perfect.',
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const reviews = [
     image:
       'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
     text:
-      'Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ',
+      'These running shoes are incredibly comfortable and provide great support during workouts. The boost technology in the sole ensures a smooth ride and the knit upper is breathable and lightweight. The shoes are also stylish and come in a variety of colors. The only downside is that they can be a bit expensive, but if you are looking for a high-quality pair of running shoes, these are definitely worth considering.',
   },
 ];
 

@@ -13,6 +13,9 @@ const checkNumber = (number) => {
      if (number < 0){
         return people.length - 1
     }
+    if(number >= 0){
+        return number
+    }
 }
 
 const nextPerson = ( ) =>{
